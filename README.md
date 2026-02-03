@@ -1,2 +1,11 @@
 # recon-scripts
-This repo is to showcase some of the scripts I used to automate and make my assignments much easier. This is for a NCS 430 - Pentesting class
+
+A small collection of Bash scripts for basic reconnaissance and OSINT-style
+information gathering against **authorized targets** (coursework labs
+and practice environments.)
+
+---
+
+## 📁 Repository Structure
+Coming soon!
+
